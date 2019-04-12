@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_map_fragment">Map</string>
+    <string name="title_activity_map_api">Map</string>
+    <string name="title_activity_maps_putuguna">Map</string>
+</resources>
